@@ -1,0 +1,11 @@
+name: gitartwork on contribution graph
+
+on:
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  generate-artwork:
+    runs-on: ubuntu-latest
+    steps:
+      - name: gitartwork on contribution graph
+        uses: jasineri/gitartwork@v1
