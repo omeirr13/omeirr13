@@ -1,3 +1,5 @@
+![GitArtwork](./gitartwork.svg)
+
 <h1 align="center">Hi 👋, I'm Omeir.</h1>
 <h3 align="center">A passionate MERN stack developer.</h3>
 
