@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **new framworks**
 
-- 👯 I’m looking to collaborate on **MERN Projects**
+- 💻 I’m looking to collaborate on **MERN Projects**
 
 - 💬 Ask me about **MERN, DSA, OOP**
 
