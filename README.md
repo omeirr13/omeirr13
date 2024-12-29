@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omeirr13&label=Profile%20views&color=0e75b6&style=flat" alt="omeirr13" /> </p>
 
-- 🌱 I’m currently learning **new framworks**
+- 🌱 I’m currently learning **new frameworks**
 
 - 💻 I’m looking to collaborate on **MERN Projects**
 
