@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN, DSA, OOP**
 
-- 📫 How to reach me **omeirr13@gmail.com**
+- 📫 How to reach me **omeir.mujtaba@educative.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
