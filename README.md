@@ -1,17 +1,19 @@
 ![GitArtwork](./gitartwork.svg)
 
-<h1 align="center">Hi 👋, I'm Omeir.</h1>
-<h3 align="center">A passionate MERN stack developer.</h3>
+<h1 align="center">Hey 👋, I'm Omeir.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omeirr13&label=Profile%20views&color=0e75b6&style=flat" alt="omeirr13" /> </p>
 
-- 🌱 I’m currently learning **new frameworks**
-
-- 💻 I’m looking to collaborate on **MERN Projects**
-
-- 💬 Ask me about **MERN, DSA, OOP**
-
-- 📫 How to reach me **omeir.mujtaba@educative.io**
+```js
+let omeir = {
+  occupation: 'Software Engineer',
+  company: 'Educative Inc.',
+  university: 'PUCIT',
+  interests: ['Tech', 'Movies'],
+  email: 'omeir.mujtaba@educative.io',
+} 
+// used let instead of const because I am forever learning and growing :)
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
